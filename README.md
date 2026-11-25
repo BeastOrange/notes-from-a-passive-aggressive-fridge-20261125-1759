@@ -6,7 +6,7 @@
 
 A passive-aggressive smart fridge door screen entry for the make.fun bounty.
 
-> Door opened 7 times since midnight. No new food spawned, but my camera watched you negotiate yourself down from leftover lasagna to shredded cheese from the bag.
+> Door opened 7 times since midnight. Inventory remained unchanged, but my camera watched you negotiate your dignity down from leftover lasagna to shredded cheese straight from the bag.
 
 ## Run it
 
